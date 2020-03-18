@@ -1,0 +1,5 @@
+C:\Users\Глеб\Desktop\для dithub\task4\bin\Debug\task4.exe
+C:\Users\Глеб\Desktop\для dithub\task4\bin\Debug\task4.pdb
+C:\Users\Глеб\Desktop\для dithub\task4\obj\Debug\task4.csprojAssemblyReference.cache
+C:\Users\Глеб\Desktop\для dithub\task4\obj\Debug\task4.exe
+C:\Users\Глеб\Desktop\для dithub\task4\obj\Debug\task4.pdb

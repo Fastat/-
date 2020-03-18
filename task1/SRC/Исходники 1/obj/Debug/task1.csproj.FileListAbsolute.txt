@@ -1,0 +1,5 @@
+C:\Users\Глеб\source\repos\task1\bin\Debug\task1.exe
+C:\Users\Глеб\source\repos\task1\bin\Debug\task1.pdb
+C:\Users\Глеб\source\repos\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Глеб\source\repos\task1\obj\Debug\task1.exe
+C:\Users\Глеб\source\repos\task1\obj\Debug\task1.pdb
